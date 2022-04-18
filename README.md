@@ -1,4 +1,6 @@
-# Next.js next-Amazona
+# Next.js
+
+# next-amazona
 
 Build ECommerce Website Like Amazon by Next.js
 
