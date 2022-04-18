@@ -24,3 +24,7 @@ Build ECommerce Website Like Amazon by Next.js
 5. Fix SSR Issue on MaterialUI
    1. add \_documents.js
    2. add code to fix styling issue
+6. List Products
+   1. add data.js
+   2. add images
+   3. render products
